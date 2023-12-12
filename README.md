@@ -19,22 +19,22 @@ The main tools used in this project is <b><i> R </i></b> and <b><i> PowerBI </i>
 <div align="center"> <h3 align="center"> 🧐 Insights 🧐 </h3> </div>
 <b><i> R </i></b>
 
-Data Cleaning: 
+Data Cleaning: <br>
 ![image](https://github.com/TharsikaSri/R-PowerBI-Hollywood-MoviesDS/assets/150933187/bfac13ed-60b4-4160-b248-4dac2c8dd03b)
 
-Data Filtering: 
+Data Filtering: <br>
 ![image](https://github.com/TharsikaSri/R-PowerBI-Hollywood-MoviesDS/assets/150933187/5115525e-abfa-44d1-bdc7-eda15e111274)
 
-Examples of visualisations in R: 
-The tree map shows the highest genre by profitability
+Examples of visualisations in R: <br>
+The tree map shows the highest genre by profitability  <br>
 ![image](https://github.com/TharsikaSri/R-PowerBI-Hollywood-MoviesDS/assets/150933187/2c69b16e-ca46-45b9-b9a0-1c072ec48d19)
 
-The graph below provides all the Rotten Tomatoes Rating per lead studio and Genre
+The graph below provides all the Rotten Tomatoes Rating per lead studio and Genre <br>
 ![image](https://github.com/TharsikaSri/R-PowerBI-Hollywood-MoviesDS/assets/150933187/d3ffdd1b-178f-4b86-b908-f91e7f2909e0)
 
-<b><i> PowerBi </i></b>
+<b><i> PowerBI </i></b>
 
-From the cleaned dataset, visualisations were created and made into a dashboard
+From the cleaned dataset, visualisations were created and made into a dashboard <br>
 ![PowerBI Dashboard](https://github.com/TharsikaSri/R-PowerBI-Hollywood-MoviesDS/assets/150933187/5b9c9157-4e6f-4e29-af2d-00e729d331e1)
 
 If you like this, please give it a ⭐ star.
